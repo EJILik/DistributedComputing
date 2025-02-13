@@ -1,0 +1,39 @@
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\PipesClient\PipesClient\bin\Debug\PipesClient.exe
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\PipesClient\PipesClient\bin\Debug\PipesClient.pdb
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\PipesClient\PipesClient\obj\x86\Debug\PipesClient.Properties.Resources.resources
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\PipesClient\PipesClient\obj\x86\Debug\PipesClient.csproj.GenerateResource.Cache
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\PipesClient\PipesClient\obj\x86\Debug\PipesClient.exe
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\PipesClient\PipesClient\obj\x86\Debug\PipesClient.pdb
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\PipesClient\PipesClient\obj\x86\Debug\Pipes.frmMain.resources
+C:\Users\Alexander\Desktop\12345\New\PipesClient\PipesClient\obj\x86\Debug\PipesClient.exe
+C:\Users\Alexander\Desktop\12345\New\PipesClient\PipesClient\obj\x86\Debug\PipesClient.pdb
+C:\Users\Alexander\Desktop\12345\New\PipesClient\PipesClient\bin\Debug\PipesClient.exe
+C:\Users\Alexander\Desktop\12345\New\PipesClient\PipesClient\bin\Debug\PipesClient.pdb
+C:\Users\Alexander\Desktop\12345\New\PipesClient\PipesClient\obj\x86\Debug\Pipes.frmMain.resources
+C:\Users\Alexander\Desktop\12345\New\PipesClient\PipesClient\obj\x86\Debug\PipesClient.Properties.Resources.resources
+C:\Users\Alexander\Desktop\12345\New\PipesClient\PipesClient\obj\x86\Debug\PipesClient.csproj.GenerateResource.Cache
+C:\Users\Егор\Desktop\Распредки\1_Pipes\PipesClient\PipesClient\bin\Debug\PipesClient.exe
+C:\Users\Егор\Desktop\Распредки\1_Pipes\PipesClient\PipesClient\bin\Debug\PipesClient.pdb
+C:\Users\Егор\Desktop\Распредки\1_Pipes\PipesClient\PipesClient\bin\Debug\mscorlib.dll
+C:\Users\Егор\Desktop\Распредки\1_Pipes\PipesClient\PipesClient\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Егор\Desktop\Распредки\1_Pipes\PipesClient\PipesClient\bin\Debug\sortkey.nlp
+C:\Users\Егор\Desktop\Распредки\1_Pipes\PipesClient\PipesClient\bin\Debug\sorttbls.nlp
+C:\Users\Егор\Desktop\Распредки\1_Pipes\PipesClient\PipesClient\bin\Debug\big5.nlp
+C:\Users\Егор\Desktop\Распредки\1_Pipes\PipesClient\PipesClient\bin\Debug\bopomofo.nlp
+C:\Users\Егор\Desktop\Распредки\1_Pipes\PipesClient\PipesClient\bin\Debug\ksc.nlp
+C:\Users\Егор\Desktop\Распредки\1_Pipes\PipesClient\PipesClient\bin\Debug\prc.nlp
+C:\Users\Егор\Desktop\Распредки\1_Pipes\PipesClient\PipesClient\bin\Debug\prcp.nlp
+C:\Users\Егор\Desktop\Распредки\1_Pipes\PipesClient\PipesClient\bin\Debug\xjis.nlp
+C:\Users\Егор\Desktop\Распредки\1_Pipes\PipesClient\PipesClient\bin\Debug\normidna.nlp
+C:\Users\Егор\Desktop\Распредки\1_Pipes\PipesClient\PipesClient\bin\Debug\normnfc.nlp
+C:\Users\Егор\Desktop\Распредки\1_Pipes\PipesClient\PipesClient\bin\Debug\normnfd.nlp
+C:\Users\Егор\Desktop\Распредки\1_Pipes\PipesClient\PipesClient\bin\Debug\normnfkc.nlp
+C:\Users\Егор\Desktop\Распредки\1_Pipes\PipesClient\PipesClient\bin\Debug\normnfkd.nlp
+C:\Users\Егор\Desktop\Распредки\1_Pipes\PipesClient\PipesClient\obj\x86\Debug\PipesClient.csproj.AssemblyReference.cache
+C:\Users\Егор\Desktop\Распредки\1_Pipes\PipesClient\PipesClient\obj\x86\Debug\Pipes.frmMain.resources
+C:\Users\Егор\Desktop\Распредки\1_Pipes\PipesClient\PipesClient\obj\x86\Debug\PipesClient.Properties.Resources.resources
+C:\Users\Егор\Desktop\Распредки\1_Pipes\PipesClient\PipesClient\obj\x86\Debug\PipesClient.csproj.GenerateResource.cache
+C:\Users\Егор\Desktop\Распредки\1_Pipes\PipesClient\PipesClient\obj\x86\Debug\PipesClient.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\Распредки\1_Pipes\PipesClient\PipesClient\obj\x86\Debug\PipesCli.043B20EB.Up2Date
+C:\Users\Егор\Desktop\Распредки\1_Pipes\PipesClient\PipesClient\obj\x86\Debug\PipesClient.exe
+C:\Users\Егор\Desktop\Распредки\1_Pipes\PipesClient\PipesClient\obj\x86\Debug\PipesClient.pdb
